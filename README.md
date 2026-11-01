@@ -1,14 +1,10 @@
 # Harrier Freight Lines (concept site)
 
-Single-page website for a fictional asset-based trucking company in Chicago, IL.
-Built as a portfolio project by [Slobodan Dabic](https://sdabic.com).
+Single-page website for a fictional asset-based trucking company in Chicago, built as a portfolio project by Slobodan Dabic.
 
-**Live:** https://harrier-freight.vercel.app
+- One self-contained HTML file (Tailwind CSS compiled and inlined), vanilla JavaScript, self-hosted fonts (Anton, Archivo, JetBrains Mono)
+- Scroll-driven hero: a scrubbed video clip of a container being loaded onto a truck, giant type passing behind the truck, a services strip with a blue-to-white text sweep and a live MPH readout
+- Split-flap departure board with live Chicago time and an interactive lane map, 4-step freight quote, driver pay and application, FAQ
+- Hero clip and its scroll concept come from a MotionSites prompt; the clip is loaded from the MotionSites CDN
 
-- Plain HTML, CSS and JavaScript, no build step
-- Live-style dispatch board in the hero, interactive SVG lane map
-- 4-step freight quote form with validation and summary (demo)
-- Driver recruiting section with pay table and application form (demo)
-- Responsive layout with a sticky call/quote bar on mobile, favicon and Open Graph card
-
-Harrier Freight Lines is not a real business. Phone numbers use the fictional 555-01xx range, and reviews and figures are sample content.
+Harrier Freight Lines is not a real business. Phone numbers use the reserved 555 range.

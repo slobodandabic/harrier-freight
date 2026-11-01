@@ -1,0 +1,8 @@
+wrangler.jsonc
+.assetsignore
+.gitattributes
+README.md
+vercel.json
+.git
+.github
+.wrangler
